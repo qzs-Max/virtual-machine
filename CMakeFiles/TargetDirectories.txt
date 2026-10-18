@@ -1,0 +1,3 @@
+/home/cqu/cmaketest/CMakeTest/CMakeFiles/outCMakeTest.dir
+/home/cqu/cmaketest/CMakeTest/CMakeFiles/edit_cache.dir
+/home/cqu/cmaketest/CMakeTest/CMakeFiles/rebuild_cache.dir
