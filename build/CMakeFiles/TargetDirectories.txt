@@ -1,0 +1,4 @@
+/home/cqu/cmaketest/CMakeTest/build/CMakeFiles/calc.dir
+/home/cqu/cmaketest/CMakeTest/build/CMakeFiles/outCMakeTest.dir
+/home/cqu/cmaketest/CMakeTest/build/CMakeFiles/edit_cache.dir
+/home/cqu/cmaketest/CMakeTest/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/outCMakeTest.dir/src/main.cpp.o -o ../bin/outCMakeTest  libcalc.a 
